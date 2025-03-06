@@ -41,7 +41,7 @@ setuptools.setup(
         "matplotlib>=2.1.2",
         "networkx>=2.5",
         "torch>=1.4.0",
-        "tensorflow==2.9.1",
+        "tensorflow-macos==2.9.1",
         "tensorflow_probability==0.17.0"
     ],
 )
